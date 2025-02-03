@@ -1,3 +1,6 @@
+_This fork is only to have a library.json file for easy integration with PlatformIO._
+
+
 ![logo](http://google.github.io/flatbuffers/fpl_logo_small.png) FlatBuffers
 ===========
 

@@ -1,4 +1,4 @@
-_This fork is only to have a library.json file for easy integration with PlatformIO._
+_This fork is only to have a library.json file for easy integration with PlatformIO. Notice that the latest version of Flatbuffers (v25.2.10) has not been merged yet, because of [this bug](https://github.com/google/flatbuffers/issues/8589)._
 
 
 ![logo](http://google.github.io/flatbuffers/fpl_logo_small.png) FlatBuffers

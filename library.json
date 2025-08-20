@@ -1,0 +1,18 @@
+{
+  "name": "FlatBuffers",
+  "version": "25.2.10",
+  "description": "FlatBuffers is a fast serialization library for C++ and other languages.",
+  "authors": {
+    "name": "Google",
+    "url": "https://github.com/google/flatbuffers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google/flatbuffers.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "build": {
+    "srcDir": "./include"
+  }
+}

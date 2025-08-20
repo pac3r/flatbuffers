@@ -1,3 +1,5 @@
+_This fork only change is an additional `libray.json` file for inclusion in platformio._
+
 ![logo](https://flatbuffers.dev/assets/flatbuffers_logo.svg) FlatBuffers
 ===========
 
